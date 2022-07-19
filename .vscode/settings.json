@@ -1,0 +1,23 @@
+{
+    "files.exclude": {
+        "**/*.meta": true,
+        "**/*.*.meta": true,
+        "**/*.unity": true,
+        "**/*.unityproj": true,
+        "**/*.mat": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.tga": true,
+        "**/*.cubemap": true,
+        "**/*.prefab": true,
+        "**/Library": true,
+        "**/ProjectSettings": true,
+        "**/Temp": true
+    },
+    "cSpell.words": [
+        "Behaviour",
+        "Mycobot",
+        "ROSTCP",
+        "Urdf"
+    ]
+}
